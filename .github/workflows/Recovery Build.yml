@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Anangtofa/earth-rosemery-.git'
+        default: 'https://github.com/Anangtofa/recovery_device_redmi_rosemary.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-12.1'
+        default: ':vnd_earth-user-12-SP1A.210812.016-V13.0.3.0.SCVIDXM-release-keys'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
